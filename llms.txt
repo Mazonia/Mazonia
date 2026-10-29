@@ -1,0 +1,50 @@
+# Mazonia - Systems Engineer, Cybersecurity Specialist & AI Developer Portfolio
+
+> Profile and project index for Enoch Nana Oduro (@Mazonia) - Software & Systems Engineer, Cybersecurity Specialist, and AI / Algorithmic Developer based in Ghana.
+
+## Developer Identity & Contact
+- **GitHub:** https://github.com/Mazonia
+- **LinkedIn:** https://linkedin.com/in/Mazonia
+- **Core Specializations:** Algorithmic Trading Systems, Enterprise LMS Architecture, WhatsApp & Telegram Automation Microservices, Web Application Penetration Testing, and OWASP API Security.
+
+## Primary Open-Source & Enterprise Systems
+
+### 1. BotsApp (Enterprise WhatsApp Gateway)
+- **Repository:** https://github.com/Mazonia/botsapp
+- **Stack:** Node.js, Express, Puppeteer, whatsapp-web.js, Socket.io, Tailwind CSS
+- **Description:** Standalone self-hosted WhatsApp Web REST API gateway, Anti-Ban 2.0 queue with humanized pacing, multi-format media delivery (audio/video/polls/docs), CSV bulk broadcaster, and native @username support.
+
+### 2. XAUUSD AI Trading Bot (Pro v3.2)
+- **Repository:** https://github.com/Mazonia/xau-traderbot
+- **Stack:** Python 3.10+, MetaTrader 5, FastAPI, XGBoost, Google Gemini 2.0 Flash, ChromaDB
+- **Description:** Institutional-grade quantitative algorithmic trading bot for Gold (XAUUSD) on MetaTrader 5 combining purged cross-validated XGBoost models, temporal self-attention market scoring, and Gemini LLM trade post-mortems.
+
+### 3. PC Remote Sentinel (Fleet Commander)
+- **Repository:** https://github.com/Mazonia/pc-controller-bot
+- **Stack:** Python, Telegram Bot API v21+, OpenCV, PyAutoGUI, WMI, Windows Task Scheduler
+- **Description:** Secure cross-network multi-PC remote management, surveillance, and automation system controlled entirely via a Telegram Bot. Supports mouse gestures, typing, process control, and webcam monitoring.
+
+### 4. Telegram Media Downloader Bot
+- **Repository:** https://github.com/Mazonia/media-downloader-bot
+- **Stack:** Python, python-telegram-bot, yt-dlp, FFmpeg
+- **Description:** High-performance Telegram bot downloading up to 8K UHD videos and 320kbps MP3 audio from 1000+ social media platforms with a pre-download 100MB size guard and automatic chunk splitting.
+
+### 5. Product Expiry & Bill Alert Bot
+- **Repository:** https://github.com/Mazonia/product-expiry-bot
+- **Stack:** Python, python-telegram-bot, Google Gemini 2.0 Flash Vision AI, SQLite, APScheduler
+- **Description:** Smart Telegram assistant tracking grocery expirations, medication schedules, utility bills, and warranty renewals with Gemini Vision OCR and automated morning notifications.
+
+### 6. Binance Auto-Claimer (Red Packet & Square)
+- **Repository:** https://github.com/Mazonia/redpacket-claimer
+- **Stack:** Python, Telethon (MTProto), Playwright (Chromium), Rich
+- **Description:** Real-time Telegram channel monitor and automated redeemer for Binance Crypto Box (Red Packet) codes and Square Comment-to-Earn reward drops with anti-lockout cooldown parsing.
+
+### 7. GeekByte LMS & Technology Academy
+- **Repository:** https://github.com/Mazonia/geekbyte-laravel
+- **Stack:** PHP 8.4, Laravel 12, Livewire 3, Alpine.js, Tailwind CSS, PostgreSQL / MySQL
+- **Description:** Enterprise-grade Learning Management System (LMS) and technology academy with course progression, quiz engine, Capture The Flag (CTF) security arena, and cryptographic certificate verification.
+
+### 8. MazAPI (API Security Assessment Suite)
+- **Repository:** https://github.com/Mazonia/api-security
+- **Stack:** Python, OWASP API Top 10, REST API audit tools
+- **Description:** Enterprise API vulnerability research, intelligence platform, and automated security assessment suite auditing backend microservices.

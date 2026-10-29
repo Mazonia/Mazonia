@@ -52,44 +52,81 @@ const mazonia = {
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Languages & Runtimes</h4>
+      <h3>📲 <a href="https://github.com/Mazonia/botsapp">botsapp</a></h3>
+      <p>Enterprise standalone WhatsApp Web REST API gateway, Anti-Ban 2.0 queue with humanized pacing, multi-format media studio, CSV bulk broadcaster, and native @username support.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/WhatsApp-Gateway-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+        <img src="https://img.shields.io/badge/Anti--Ban_2.0-Active-blue?style=flat-square" alt="AntiBan" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Trading, APIs & Security</h4>
+      <h3>📈 <a href="https://github.com/Mazonia/xau-traderbot">xau-traderbot</a></h3>
+      <p>Institutional-grade quantitative AI trading system for Gold (XAUUSD) on MetaTrader 5 combining purged cross-validated XGBoost models, temporal self-attention, and Gemini LLM post-mortems.</p>
       <p>
-        <img src="https://img.shields.io/badge/XAU_Trader_Bot-FFD700?style=for-the-badge&logo=tradingview&logoColor=black" alt="XAU Trader" />
-        <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google APIs" />
-        <img src="https://img.shields.io/badge/OWASP_API_Security-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-        <img src="https://img.shields.io/badge/Zero_Trust_Architecture-7B2CBF?style=for-the-badge&logo=shield&logoColor=white" alt="Zero Trust" />
+        <img src="https://img.shields.io/badge/MT5-Execution-red?style=flat-square&logo=metatrader5&logoColor=white" alt="MT5" />
+        <img src="https://img.shields.io/badge/XGBoost-Machine_Learning-green?style=flat-square" alt="ML" />
+        <img src="https://img.shields.io/badge/Gemini_2.0-Sentiment-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Network & Infrastructure</h4>
+      <h3>🛡️ <a href="https://github.com/Mazonia/pc-controller-bot">pc-controller-bot</a></h3>
+      <p>Secure multi-PC fleet management, surveillance, and automation system controlled entirely via a single Telegram Bot. Features remote trackpad gestures, screen recording, and process control.</p>
       <p>
-        <img src="https://img.shields.io/badge/Network_Architecture-008080?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Network" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+        <img src="https://img.shields.io/badge/Telegram_Bot-Fleet_Commander-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+        <img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=flat-square" alt="OpenCV" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ Web & Databases</h4>
+      <h3>🎬 <a href="https://github.com/Mazonia/media-downloader-bot">media-downloader-bot</a></h3>
+      <p>High-performance Telegram bot downloading up to 8K UHD videos and 320kbps MP3 audio from 1000+ platforms with intelligent pre-download 100MB size guard and automatic chunk splitting.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/yt--dlp-Universal_Extraction-red?style=flat-square" alt="yt-dlp" />
+        <img src="https://img.shields.io/badge/FFmpeg-Audio_Video_Merge-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+        <img src="https://img.shields.io/badge/8K_UHD-Supported-FF0000?style=flat-square" alt="8K" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔔 <a href="https://github.com/Mazonia/product-expiry-bot">product-expiry-bot</a></h3>
+      <p>Smart Telegram assistant tracking grocery expirations, medication schedules, utility bills, and warranty renewals with Google Gemini 2.0 Flash Vision OCR and automated morning notifications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Gemini_Vision-OCR_Extraction-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/SQLite-Local_Storage-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Scheduler-Proactive_Alerts-orange?style=flat-square" alt="Scheduler" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎁 <a href="https://github.com/Mazonia/redpacket-claimer">redpacket-claimer</a></h3>
+      <p>Real-time Telegram monitor and automated claimer for Binance Red Packet (Crypto Box) codes and Square Comment-to-Earn posts with anti-lockout cooldown parsing and session recycling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Binance-Automation-F0B90B?style=flat-square&logo=binance&logoColor=black" alt="Binance" />
+        <img src="https://img.shields.io/badge/Playwright-Chromium-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+        <img src="https://img.shields.io/badge/Telethon-MTProto-blue?style=flat-square" alt="Telethon" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/Mazonia/geekbyte-laravel">geekbyte-laravel</a></h3>
+      <p>Enterprise-grade Learning Management System (LMS) and technology training academy built on Laravel 12, Livewire 3, CTF security challenges, and cryptographically verified certificates.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Livewire-3-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
+        <img src="https://img.shields.io/badge/Cybersecurity-CTF_Arena-black?style=flat-square" alt="CTF" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Mazonia/api-security">api-security</a></h3>
+      <p>MazAPI: Enterprise API security analysis and defense framework auditing backend microservices against OWASP API Security Top 10 vulnerabilities with automated token validation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OWASP-API_Top_10-00599C?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+        <img src="https://img.shields.io/badge/API_Security-Automated_Audit-red?style=flat-square" alt="Security" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
     </td>
   </tr>
@@ -102,40 +139,81 @@ const mazonia = {
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/Mazonia/xau-traderbot">xau-traderbot</a></h3>
-      <p>Automated quantitative trading bot engineered for Gold (XAU/USD). Integrates real-time market data analysis, backtested strategy execution, automated stop-loss/take-profit risk management, and order handling.</p>
+      <h3>📲 <a href="https://github.com/Mazonia/botsapp">botsapp</a></h3>
+      <p>Enterprise standalone WhatsApp Web REST API gateway, Anti-Ban 2.0 queue with humanized pacing, multi-format media studio, CSV bulk broadcaster, and native @username support.</p>
       <p>
-        <img src="https://img.shields.io/badge/Algo_Trading-Gold_XAUUSD-FFD700?style=flat-square&logo=tradingview&logoColor=black" alt="Algo" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Risk_Management-Automated-blue?style=flat-square" alt="Risk" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/WhatsApp-Gateway-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+        <img src="https://img.shields.io/badge/Anti--Ban_2.0-Active-blue?style=flat-square" alt="AntiBan" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/Mazonia/room_cost_estimator_googleapi">room_cost_estimator_googleapi</a></h3>
-      <p>Intelligent room cost estimation platform powered by Google Cloud APIs. Computes location-aware pricing, spatial property analysis, and automated cost estimations for real-estate and room budgeting.</p>
+      <h3>📈 <a href="https://github.com/Mazonia/xau-traderbot">xau-traderbot</a></h3>
+      <p>Institutional-grade quantitative AI trading system for Gold (XAUUSD) on MetaTrader 5 combining purged cross-validated XGBoost models, temporal self-attention, and Gemini LLM post-mortems.</p>
       <p>
-        <img src="https://img.shields.io/badge/Google_Cloud_APIs-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google APIs" />
-        <img src="https://img.shields.io/badge/Cost_Estimation-Algorithmic-green?style=flat-square" alt="Estimation" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/MT5-Execution-red?style=flat-square&logo=metatrader5&logoColor=white" alt="MT5" />
+        <img src="https://img.shields.io/badge/XGBoost-Machine_Learning-green?style=flat-square" alt="ML" />
+        <img src="https://img.shields.io/badge/Gemini_2.0-Sentiment-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Mazonia/api-security">api-security</a></h3>
-      <p>A security analysis and defense framework built to audit backend microservices against OWASP API Security Top 10 vulnerabilities, enforce strict token validation, and rate-limiting.</p>
+      <h3>🛡️ <a href="https://github.com/Mazonia/pc-controller-bot">pc-controller-bot</a></h3>
+      <p>Secure multi-PC fleet management, surveillance, and automation system controlled entirely via a single Telegram Bot. Features remote trackpad gestures, screen recording, and process control.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Security-API%20Hardening-red?style=flat-square" alt="Security" />
-        <img src="https://img.shields.io/badge/OWASP-Compliant-00599C?style=flat-square" alt="OWASP" />
+        <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+        <img src="https://img.shields.io/badge/Telegram_Bot-Fleet_Commander-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+        <img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=flat-square" alt="OpenCV" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/Mazonia/ACSES-network-plan">ACSES-network-plan</a></h3>
-      <p>Comprehensive enterprise network topology plan and architectural blueprint detailing subnetting, router/switch configurations, security firewalls, and redundant link failover mechanisms.</p>
+      <h3>🎬 <a href="https://github.com/Mazonia/media-downloader-bot">media-downloader-bot</a></h3>
+      <p>High-performance Telegram bot downloading up to 8K UHD videos and 320kbps MP3 audio from 1000+ platforms with intelligent pre-download 100MB size guard and automatic chunk splitting.</p>
       <p>
-        <img src="https://img.shields.io/badge/Network-Architecture-008080?style=flat-square" alt="Networking" />
-        <img src="https://img.shields.io/badge/Infrastructure-Subnetting-blue?style=flat-square" alt="Infra" />
+        <img src="https://img.shields.io/badge/yt--dlp-Universal_Extraction-red?style=flat-square" alt="yt-dlp" />
+        <img src="https://img.shields.io/badge/FFmpeg-Audio_Video_Merge-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+        <img src="https://img.shields.io/badge/8K_UHD-Supported-FF0000?style=flat-square" alt="8K" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔔 <a href="https://github.com/Mazonia/product-expiry-bot">product-expiry-bot</a></h3>
+      <p>Smart Telegram assistant tracking grocery expirations, medication schedules, utility bills, and warranty renewals with Google Gemini 2.0 Flash Vision OCR and automated morning notifications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Gemini_Vision-OCR_Extraction-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/SQLite-Local_Storage-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Scheduler-Proactive_Alerts-orange?style=flat-square" alt="Scheduler" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎁 <a href="https://github.com/Mazonia/redpacket-claimer">redpacket-claimer</a></h3>
+      <p>Real-time Telegram monitor and automated claimer for Binance Red Packet (Crypto Box) codes and Square Comment-to-Earn posts with anti-lockout cooldown parsing and session recycling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Binance-Automation-F0B90B?style=flat-square&logo=binance&logoColor=black" alt="Binance" />
+        <img src="https://img.shields.io/badge/Playwright-Chromium-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+        <img src="https://img.shields.io/badge/Telethon-MTProto-blue?style=flat-square" alt="Telethon" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/Mazonia/geekbyte-laravel">geekbyte-laravel</a></h3>
+      <p>Enterprise-grade Learning Management System (LMS) and technology training academy built on Laravel 12, Livewire 3, CTF security challenges, and cryptographically verified certificates.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Livewire-3-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
+        <img src="https://img.shields.io/badge/Cybersecurity-CTF_Arena-black?style=flat-square" alt="CTF" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Mazonia/api-security">api-security</a></h3>
+      <p>MazAPI: Enterprise API security analysis and defense framework auditing backend microservices against OWASP API Security Top 10 vulnerabilities with automated token validation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OWASP-API_Top_10-00599C?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+        <img src="https://img.shields.io/badge/API_Security-Automated_Audit-red?style=flat-square" alt="Security" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
     </td>
   </tr>
